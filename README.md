@@ -12,8 +12,8 @@ I am an absolute newbie with the Git system in general and GitHub in particular,
 Bear with me.
 
 ## Todos
-1. upload some stuff I find useful
-2. invite viguy's core users
-3. make the adjustments necessary for usefull use (down and uploads, messages, ... ?)
-
-99. hand the project to a young enthousiastic "Visioneer".
+- [ ] Upload some stuff I find useful    
+- [x] Invite viguy's core users   
+- [ ] Make the adjustments necessary for usefull use (down and uploads, messages, ... ?)  
+… 
+- [ ] Hand the project to a young enthousiastic "Visioneer" ♾  
